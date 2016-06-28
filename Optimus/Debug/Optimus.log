@@ -1,0 +1,20 @@
+﻿Build started 1/16/2015 1:50:34 PM.
+     1>Project "D:\Scoala\a2s1\POO\PROIECT\Aplicatie\Aplicatie finala\Optimus\Optimus\Optimus\Optimus.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Diverse\Kituri\Visual studio\2013\VS2013\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.DataVisualization.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Input.cpp Optimus.cpp
+         Input.cpp
+         Optimus.cpp
+         Generating Code...
+       Link:
+         D:\Diverse\Kituri\Visual studio\2013\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Scoala\a2s1\POO\PROIECT\Aplicatie\Aplicatie finala\Optimus\Optimus\Debug\Optimus.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Optimus.Input.resources /ASSEMBLYRESOURCE:Debug\Optimus.loading.resources /ASSEMBLYRESOURCE:Debug\Optimus.Output.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Scoala\a2s1\POO\PROIECT\Aplicatie\Aplicatie finala\Optimus\Optimus\Debug\Optimus.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Input.obj
+         Debug\loading.obj
+         Debug\Optimus.obj
+         Debug\Output.obj
+         Debug\process.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Optimus.vcxproj -> D:\Scoala\a2s1\POO\PROIECT\Aplicatie\Aplicatie finala\Optimus\Optimus\Debug\Optimus.exe
+     1>Done Building Project "D:\Scoala\a2s1\POO\PROIECT\Aplicatie\Aplicatie finala\Optimus\Optimus\Optimus\Optimus.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.52
